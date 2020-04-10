@@ -29,4 +29,4 @@ end
 # percent_funded: project.css("ul.project-stats li.first.funded strong").text.gsub("%","").to_i
 
 
-create_project_hash
+puts create_project_hash
