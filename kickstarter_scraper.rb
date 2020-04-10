@@ -24,7 +24,7 @@ def create_project_hash
 
   #return the projects hash
   projects
-  #binding.pry
+  binding.pry
 end
 
 # projects: kickstarter.css("li.project.grid_4")
